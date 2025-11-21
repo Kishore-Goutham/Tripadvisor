@@ -9,8 +9,8 @@ body{
 
 body{
     padding-top: 20px;
-    padding-left: 50px;
-    padding-right: 50px;
+    padding-left: 40px;
+    padding-right: 40px;
 }
 
 .tripadvisor__logo{
@@ -640,6 +640,10 @@ body{
    
    .foot-bottom__sec2{
     margin-right: 20px;
+   }
+   .themedcollection__sec2__card h3{
+    bottom: 18%;
+    z-index: 2;
    }
 
 }
